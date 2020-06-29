@@ -1,0 +1,14 @@
+body	{
+	color: red;
+	font-family: 'Graduate', sans-serif;
+	flex-wrap: wrap;
+	text-align: center;
+}
+
+.single {
+	height: 75rem;
+	width: 75rem;
+	flex-wrap: wrap;
+	text-align: center;
+	margin-left: 5rem;
+}
